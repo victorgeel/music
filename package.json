@@ -1,6 +1,6 @@
 {
-  "name": "telegram-music-bot",
-  "version": "1.0.0",
+  "name": "telegram-stram-music",
+  "version": "1.0",
   "description": "A simple Telegram bot to play music in voice chat.",
   "main": "index.js",
   "scripts": {
